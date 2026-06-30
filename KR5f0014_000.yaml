@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5f0014/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 孫子註解
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 02:18:27.495230'
+  source:
+    repository: kanripo
+    path: KR5f0014/KR5f0014_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:b9b2e52d71dc0eacab93c4dffc32de5655f1f0f370e8fd0b90abb45a42660feb
